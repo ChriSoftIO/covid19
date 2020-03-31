@@ -1,1 +1,14 @@
-{"status": "ok","articulos":[{}]}
+{"status": "ok","articulos":[{
+-"source": {
+"id": null,
+"name": "Corriere.it"
+},
+"author": "Cristina Marrone",
+"title": "Il coronavirus, i bambini (in genere più protetti) e il ruolo del recettore ACE2 - Corriere della Sera",
+"description": "Le ipotesi sono molte ma i più piccoli sarebbero meno colpiti perché le loro cellule non hanno una chiave d’accesso (o è poco sviluppata) che serve al virus per infettarle",
+"url": "https://www.corriere.it/salute/malattie_infettive/20_marzo_31/coronavirus-bambini-in-genere-piu-protetti-ruolo-recettore-ace2-0129f644-7336-11ea-bc49-338bb9c7b205.shtml",
+"urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2020/03/31/98b57246-733f-11ea-bc49-338bb9c7b205.jpg",
+"publishedAt": "2020-03-31T11:11:23Z",
+"content": "Se ne parla dall’inizio dell’epidemia del coronavirus: i bambini sembrano ammalarsi meno e avere spesso un decorso migliore. Purtroppo ci sono eccezioni come la bimba belga di 12 anni e la ragazzina di 16 anni francese e un’altra manciata di casi segnalati ne… [+3605 chars]"
+}
+]}
